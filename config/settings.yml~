@@ -1,0 +1,9 @@
+---
+:music_root_dir: /Users/rs/Music/iTunes/iTunes Media/Music/Tony Bennett
+:output_dir: project_library
+:temp_dir: tmp
+:input_file_types:
+- wav
+- aif
+- mp3
+:song_segment_length: 7
